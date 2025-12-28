@@ -1,12 +1,12 @@
 {
-  "name": "▶ ●───ᴅᴛᴢ ɴᴏᴠᴀ xᴍᴅ────▶ ●",
+  "name": "dtz",
   "version": "4.5.0",
   "description": "A WhatsApp Bot Created By ArslanMD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ▶ ●───ᴅᴛᴢ ɴᴏᴠᴀ xᴍᴅ────▶ ●",
-    "stop": "pm2 stop ▶ ●───ᴅᴛᴢ ɴᴏᴠᴀ xᴍᴅ────▶ ●",
-    "restart": "pm2 restart ▶ ●───ᴅᴛᴢ ɴᴏᴠᴀ xᴍᴅ────▶ ●"
+    "start": "pm2 start index.js --deep-monitoring --attach --name dtz",
+    "stop": "pm2 stop dtz",
+    "restart": "pm2 restart dtz"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
